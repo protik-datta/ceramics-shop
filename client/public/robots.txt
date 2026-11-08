@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bdceramicsshop.vercel.app/sitemap.xml

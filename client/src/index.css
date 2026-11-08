@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: #fafafa;
+  color: #111827;
+  font-family: 'Inter', 'Hind Siliguri', 'Noto Sans Bengali', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+.bn { font-family: 'Hind Siliguri', 'Noto Sans Bengali', 'Inter', sans-serif; }
